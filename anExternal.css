@@ -1,0 +1,17 @@
+body{
+    
+}
+p{
+
+}
+#PSG{
+    border:solid 5px red;
+    float:left;
+    text-align:center;
+}
+#rounded_corners{
+    border:solid 5px red;
+    border-radius:25px;
+    padding:20px;
+    text-align:center;
+}
